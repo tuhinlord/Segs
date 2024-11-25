@@ -17,5 +17,5 @@ noButton.addEventListener("click", () => {
 // Function to show the message when "Yes" is clicked
 yesButton.addEventListener("click", () => {
   message.style.display = "block";
-  message.innerHTML = "Yes, I knew you wanted it too. So tonight?";
+  message.innerHTML = "Yesssss, I knew you want it too. So tonight??😋";
 });
